@@ -1,7 +1,6 @@
 # Cognitive Science (Evolutionary Approach)
 ### Implementation Report — Summary  
 
-**Instructor:** Dr. Saeed Setaieshi  
 **Prepared by:** Elham Esmaeilnia Shirvani  
 **Date:** February 2018  
 
